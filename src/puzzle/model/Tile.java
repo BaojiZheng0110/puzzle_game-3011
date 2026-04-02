@@ -1,3 +1,5 @@
+import java.awt.image.BufferedImage;
+
 public class Tile {
     private int id;
     private int correctRow;
